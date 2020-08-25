@@ -6,4 +6,4 @@ It can also be downloaded from kaggle: https://www.kaggle.com/theworldbank/ibrd-
 
 Please see the Data Dictionary file for more information about the attributes and the dataset.
 
-The project includes some data cleaning, EDA as well as a Linear Regression and Gaussian Naïve Bayes Models. 
+The project includes some data cleaning, EDA as well as a Linear Regression model to predict Interest Rate based on Original Principal Value and Loan Type, and a Gaussian Naïve Bayes classifier to classify the dataset and predict whether a loan is repaid or not based on Country and Loan Type. 
